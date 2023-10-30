@@ -8,5 +8,5 @@ Dict(
     ],
     "institution" => "Aalto University",
     "institution_logo" => "name of your institution logo file, e.g. `logo.svg`. Place this under `assets`",
-    "repo" => "link to the repository of the source code"
+    "repo" => "github.com/optimisation-under-uncertainty"
 )
